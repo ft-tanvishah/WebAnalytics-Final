@@ -3,15 +3,34 @@
 **Team:** Women in STEM  
 
 ## Project Idea  
+# 🏎 Web Analytics Final Project  
 
-We are building an event-driven pricing intelligence dashboard for an independent Formula 1 merchandise retailer.
+**Team:** Women in STEM  
 
-The system will:
+## Project Idea  
 
-- Scrape competitor websites daily to track prices, discounts, and stock status  
-- Integrate public F1 race data (calendar, results, standings)  
-- Detect pricing changes around race weekends and podium finishes  
-- Measure promotion timing and competitor response patterns  
-- Surface data-driven KPIs to support strategic pricing decisions  
+We are building an event-driven e-commerce pricing intelligence dashboard using Formula 1 merchandise as our case study.
 
-We are developing a structured analytics tool that transforms publicly available race and e-commerce data into actionable business insight.
+### Why F1 for E-Commerce?
+
+Formula 1 is a globally followed, event-based sport where demand fluctuates dramatically around race weekends and team performance. Podium finishes, championship momentum, and media coverage trigger short-term spikes in fan engagement and online purchasing behavior.
+
+This makes F1 merchandise retail an ideal environment to study:
+
+- Event-driven demand volatility  
+- Dynamic pricing behavior  
+- Competitor promotion timing  
+- Stockout risk after performance surges  
+
+Unlike general retail, F1 e-commerce provides clear, timestamped external events (race calendar and results) that allow us to directly measure how online pricing and promotional strategies respond to real-world triggers.
+
+### Our Focus
+
+We will:
+
+- Scrape competitor F1 merchandise websites daily  
+- Track pricing, discounts, and stock availability  
+- Integrate public F1 race data via API  
+- Analyze how pricing behavior shifts before and after race weekends  
+
+Our goal is to demonstrate how event-aware web analytics can improve pricing strategy in high-volatility e-commerce environments.
