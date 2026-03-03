@@ -3,11 +3,6 @@
 **Team:** Women in STEM  
 
 ## Project Idea  
-# Web Analytics Final Project  
-
-**Team:** Women in STEM  
-
-## Project Idea  
 
 We are building an event-driven e-commerce pricing intelligence dashboard using Formula 1 merchandise as our case study.
 
