@@ -3,7 +3,7 @@
 **Team:** Women in STEM  
 
 ## Project Idea  
-# 🏎 Web Analytics Final Project  
+# Web Analytics Final Project  
 
 **Team:** Women in STEM  
 
